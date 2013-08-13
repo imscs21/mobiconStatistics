@@ -16,7 +16,12 @@ include moving average for statistics
     
 # Test
 use the mocha and should.js
+
     npm test
+
+# Author
+Yun YoungSik 
+http://mobicon.tistory.com
 
 # License
 MIT License
