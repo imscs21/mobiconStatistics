@@ -2,11 +2,13 @@ mobiconStatistics
 =================
 
 include moving average for statistics
+Moving average to predict next value and remove noize http://en.wikipedia.org/wiki/Moving_average
 
-# Installation
+
+## Installation
     npm install mobiconStatistics
 
-# Usage
+## Usage
     var mobicon = require('mobiconStatistics');
     // data : input data must be array
     // interval : usage data count, step by 1 
@@ -14,14 +16,14 @@ include moving average for statistics
     var interval = 4;
     var movingAverage = mobicon.calcMovingAverage(data, interval);
     
-# Test
+## Test
 use the mocha and should.js
 
     npm test
 
-# Author
+## Author
 Yun YoungSik 
 http://mobicon.tistory.com
 
-# License
+## License
 MIT License
