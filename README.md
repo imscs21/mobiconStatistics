@@ -2,6 +2,7 @@ mobiconStatistics
 =================
 
 include moving average for statistics
+
 Moving average to predict next value and remove noize http://en.wikipedia.org/wiki/Moving_average
 
 
