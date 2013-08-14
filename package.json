@@ -1,5 +1,5 @@
 {
-  "name": "mobiconStatistics",
+  "name": "mobiconstatistics",
   "version": "0.0.1",
   "description": "include statistics function such as the moving average",
   "main": "./lib/mobiconStatistics.js",
