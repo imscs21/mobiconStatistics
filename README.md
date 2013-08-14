@@ -9,10 +9,10 @@ Moving average to predict next value and remove noize http://en.wikipedia.org/wi
 
 
 ## Installation
-    npm install mobiconStatistics
+    npm install mobiconstatistics
 
 ## Usage
-    var mobicon = require('mobiconStatistics');
+    var mobicon = require('mobiconstatistics');
     // data : input data must be array
     // interval : usage data count and then move the data per 1 step
     // sample data
